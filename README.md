@@ -1,5 +1,5 @@
 # BNF-Wiki
-A place to contain all relevant and known grammars in BNF notation
+A place to contain all relevant and known grammars in BNF notation.
 The One Stop Shopping for all your parsing or generation needs.
 
 ## Abstract
@@ -21,7 +21,7 @@ This wiki aims to fill that need. We think that there is a wide audience for thi
 - Language designers.
 - Language implementers.
 - Protocol specifiers.
-- Standards committees . SP.
+- Standards committees .
 - Security professionals.
 - Quality control enginerrs.
 
@@ -141,6 +141,20 @@ just use the lowercase terminal names as referenced in the above  Terminal secti
 <AddExpression> ::=  integer "+" integer
 <MulExpression> ::= integer "*" integer
 ```
+
+
+## Licenses and open source
+
+Do not copy and paste proprietary content on this wiki. Most languages
+today  are open source and there should be no problem with with describing the syntax in BNF notation here.
+If a language's BNF grammar is posted and we get a take down notice, it will be be
+promptly be removed without notice.
+
+This  site is covered by the Creative Commons CC0 1.0 Universal
+license.
+
+[See the LICENSE](LICENSE)
+
 
 
 ## Summary
