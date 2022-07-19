@@ -29,6 +29,10 @@ This wiki aims to fill that need. We think that there is a wide audience for thi
 No matter how you got here, we hope you will appreciate and contribute
 to this effort. Please consider submitting missing languages, reviewing and testing  alreadyposted grammars 
 
+## The BNF Wiki!
+
+[BNF Wiki](https://github.com/edhowland/BNF-Wiki/wiki)
+
 
 ## Proposed layout of the Wiki
 
